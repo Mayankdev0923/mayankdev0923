@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Mayank Sharma!
 
-![Profile Banner](https://imgur.com/your-custom-banner.png) <!-- (Optional: Replace with your own banner image link) -->
 
 ## 🚀 About Me
 
